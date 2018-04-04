@@ -3,7 +3,7 @@
 function add(1, 8) {
 return 1 + 8
 }
-add(1,8)
+console.log('add')
 function subtract(60, 40) {
 return 60 - 40
 }
